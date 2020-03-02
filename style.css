@@ -1,0 +1,114 @@
+h3 {
+    font-size:25px;
+    color :white;
+    font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;   
+}
+
+body {
+    background-image: linear-gradient(to right, #0078b9 5%, #80379b 95%);
+
+}
+
+.logo {
+  margin: 0 auto;
+  text-align:center;
+    width :15%;    
+display:block;
+    
+}
+
+p {
+    margin:15px;
+    padding:5px;
+    text-align:center;
+    color :white;
+    font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;
+    font-size: 14px;
+    opacity:1 !important;
+    
+}
+
+button {
+    font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;   
+    color :rgba(255,255,255,1);
+     background-color: rgba(255, 255, 255, 0.1);
+    width:70px;
+    height:40px;
+    border :none;
+    border-radius :5px;
+    vertical-align: middle;
+    text-decoration: none;
+   
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.45);
+}
+
+.logodiv {
+    margin:25px 25px;
+    padding :15px;
+    
+}
+
+.welcomediv {
+    text-align:center;   
+    padding:15px;
+    margin: 5px 0px 0px 5px;
+     color :white;
+     opacity:1 !important;   
+    
+}
+
+.submitdiv {
+    text-align:center;
+ color :rgba(255,255,255, 1);
+     opacity:1 !important;
+}
+
+.registerdiv {
+     color :white;
+     opacity:1 !important;
+}
+
+p:hover {
+     text-decoration: underline !important;
+}
+.setupdiv {
+     color :white;
+     opacity:1 !important;
+height:0px;
+    
+}
+
+.passdiv {
+     color :white;
+     opacity:1 !important;
+
+}
+
+.boxdiv {
+    text-align:center;
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-top:25px;
+    margin-bottom:10px;
+    padding:15px;
+    resize:both;
+    overflow: auto;
+    height:300px;
+    width:300px;
+    margin: 0 auto;
+    border-radius :5px;
+    
+}
+
+p2 {
+    margin:15px;
+    padding:5px;
+    text-align:center;
+    color :white;
+    font-family: "museo-sans", "Museo Sans", "Helvetica Neue", "Arial", sans-serif;
+    font-size: 14px;
+    opacity:1 !important;
+    
+}
